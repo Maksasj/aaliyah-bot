@@ -1,0 +1,49 @@
+{   
+    "xp_based": {
+        "1": {
+            "title" : "Test achievement",
+            "description": "test description !!",
+            "award": {
+                "type": "role",
+                "xp_required":200,
+                "role": "Test Ach"
+            }
+        },
+        "2": {
+            "title" : "Another achievement",
+            "description": "test description !!",
+            "award": {
+                "type": "role",
+                "xp_required":231,
+                "role": "Test Ach"
+            }
+        },
+        "3": {
+            "title" : "Another achievement 1",
+            "description": "test description !!",
+            "award": {
+                "type": "role",
+                "xp_required":31231,
+                "role": "Test Ach"
+            }
+        },
+        "4": {
+            "title" : "Another achievement 2",
+            "description": "test description !!",
+            "award": {
+                "type": "role",
+                "xp_required":3453434,
+                "role": "Test Ach"
+            }
+        },
+        "5": {
+            "title" : "Another achievement 3",
+            "description": "test description !!",
+            "award": {
+                "type": "role",
+                "xp_required":453434534,
+                "role": "Test Ach"
+            }
+        }
+    }
+}
